@@ -11,7 +11,7 @@ Before:
 After:
 ![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/example_2.PNG)
 
->***NOTE: THIS REQUIRES YOU TO ENABLE DEVELOPER MODE FOR EXTENTIONS VIA YOUR BROWSER***
+>***NOTE: THIS REQUIRES YOU TO ENABLE DEVELOPER MODE FOR EXTENSIONS VIA YOUR BROWSER***
 
 Step 1) Open the extentions tab for your browser
 ![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/step_1.PNG)
