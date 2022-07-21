@@ -1,7 +1,7 @@
 {
     "name": "Fantality - Lost Merchants Ext",
     "version": "1.0",
-    "description": "An extention that adds either the 'remaining' or 'cooldown' time for current merchants to the title of the websites tab",
+    "description": "An extension that adds either the 'remaining' or 'cooldown' time for current merchants to the title of the websites tab",
     "permissions": [
         "tabs",
         "https://lostmerchants.com/*"
