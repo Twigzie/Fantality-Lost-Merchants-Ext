@@ -13,7 +13,7 @@ After:
 
 >***NOTE: THIS REQUIRES YOU TO ENABLE DEVELOPER MODE FOR EXTENSIONS VIA YOUR BROWSER***
 
-Step 1) Open the extentions tab for your browser
+Step 1) Open the extensions tab for your browser
 ![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/step_1.PNG)
 
 Step 2) Enable developer mode via your browser
