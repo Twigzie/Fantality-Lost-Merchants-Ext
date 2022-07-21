@@ -9,7 +9,7 @@ A simple extension for chrome based browser that adds either the 'remaining' or 
 Before:
 ![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/example_1.PNG)
 After:
-![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/example_1.PNG)
+![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/example_2.PNG)
 
 >***NOTE: THIS REQUIRES YOU TO ENABLE DEVELOPER MODE FOR EXTENTIONS VIA YOUR BROWSER***
 
