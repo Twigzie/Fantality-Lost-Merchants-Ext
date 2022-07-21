@@ -14,7 +14,10 @@ After:
 >***NOTE: THIS REQUIRES YOU TO ENABLE DEVELOPER MODE FOR EXTENSIONS VIA YOUR BROWSER***
 
 Step 1) Open the extensions tab for your browser
-![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/step_1.PNG)
+![](https://github.com/Twigzie/Fantality-Lost**Initial Release:** v1.0
+- [x] Features
+	- [x] Current time before the Merchant leaves.
+	- [x] Current time before the next available Merchant spawns.-Merchants-Ext/blob/main/images/step_1.PNG)
 
 Step 2) Enable developer mode via your browser
 ![](https://github.com/Twigzie/Fantality-Lost-Merchants-Ext/blob/main/images/step_2.PNG)
